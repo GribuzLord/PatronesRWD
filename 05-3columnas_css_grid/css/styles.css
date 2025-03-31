@@ -70,8 +70,8 @@ p {
      .sidebar-1{
         grid-area: derecha;
      }
-
-     .contenido_principal,.sidebar-1,.sidebar-2{
-        text-align: center;
-     }
 }
+
+.contenido_principal,.sidebar-1,.sidebar-2{
+    text-align: center;
+ }
